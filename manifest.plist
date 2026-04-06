@@ -8,16 +8,22 @@
             <key>assets</key>
             <array>
                 <dict>
-                    <key>kind</key><string>software-package</string>
-                    <key>url</key><string>https://momomo-agent.github.io/phoneclaw-ios/PhoneClaw.ipa</string>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://momomo-agent.github.io/phoneclaw-ios/PhoneClaw.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
-                <key>bundle-identifier</key><string>com.momo.PhoneClaw</string>
-                <key>bundle-version</key><string>1.0</string>
-                <key>kind</key><string>software</string>
-                <key>title</key><string>PhoneClaw</string>
+                <key>bundle-identifier</key>
+                <string>com.momo.PhoneClaw</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>PhoneClaw</string>
             </dict>
         </dict>
     </array>
